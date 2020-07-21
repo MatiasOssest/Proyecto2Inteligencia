@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#Carpetas
+
+jpg/
+
 # Distribution / packaging
 .Python
 build/
